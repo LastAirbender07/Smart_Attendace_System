@@ -3,7 +3,7 @@ This project aims replacing the current method of manual attendance taking syste
 
 
 ### 1	 ABSTRACT
-     Face recognition is an important application of computer vision and machine learning, with many practical applications in security, surveillance, and social media. Python and OpenCV are popular tools for implementing face recognition algorithms. 
+Face recognition is an important application of computer vision and machine learning, with many practical applications in security, surveillance, and social media. Python and OpenCV are popular tools for implementing face recognition algorithms. 
 "Attendance using Face Recognition" is a system that uses facial recognition technology to record and manage attendance. The system then stores attendance records in a database and provides real-time reports to the administrators.
 In this paper, we present an implementation of a face recognition system using the pre-built “Face Recognition” module and OpenCV library in Python. Our results show that our system achieves high accuracy and robustness, while being efficient and scalable.
 
@@ -12,7 +12,7 @@ Computer Vision, machine learning, face recognition, Open CV, facial feature ext
 
 
 ### 1.1 	INTRODUCTION:
-     Face recognition has become a widely researched topic due to its practical applications in various fields. It involves recognizing and identifying individuals from facial images or videos. Face recognition has become a popular area of research in computer vision and machine learning, with many techniques being developed over the years.
+Face recognition has become a widely researched topic due to its practical applications in various fields. It involves recognizing and identifying individuals from facial images or videos. Face recognition has become a popular area of research in computer vision and machine learning, with many techniques being developed over the years.
 The aim of face recognition is to automatically identify or verify an individual based on their facial features. Python and OpenCV are popular tools for implementing face recognition algorithms, with many libraries and modules available for use.
 "Attendance using Face Recognition" is a system designed to automate the process of recording attendance using facial recognition technology. The system utilizes a camera to capture images of individuals entering a specific location, which are then processed using deep learning algorithms to identify and verify their identities. The system stores attendance records in a database and provides real-time reports to the administrators, allowing for easy monitoring and management of attendance. The implementation of this system offers a more efficient and accurate way to manage attendance records compared to traditional methods such as paper-based systems or manual data entry.
 
