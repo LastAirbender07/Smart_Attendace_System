@@ -1,6 +1,6 @@
 # Smart_Attendace_System
 This project aims replacing the current method of manual attendance taking system in schools by providing a smart system
-
+https://clipchamp.com/watch/fgAaCAvDFr6
 
 ### 1	 ABSTRACT
 Face recognition is an important application of computer vision and machine learning, with many practical applications in security, surveillance, and social media. Python and OpenCV are popular tools for implementing face recognition algorithms. 
